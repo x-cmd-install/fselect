@@ -5,7 +5,7 @@ about:
   head: e591921
   archived: false
   latestVersion: "0.10.3"
-  collectedAt: 2026-09-07T05:07:40Z
+  collectedAt: 2026-09-07T19:21:49Z
 timeline:
   created: 2018-01-26
   lastCommit: 2026-09-05
@@ -81,7 +81,7 @@ total:
   commit: 1446
 ---
 path: /home/runner/.x-repo/github.com/jhspetersson/fselect
-collectedAt: 2026-09-07T05:07:42Z
+collectedAt: 2026-09-07T19:21:50Z
 loc:
   Rust:
     code: 25196
@@ -226,7 +226,7 @@ checks:
       - 'Warn: branch protection not enabled for branch ''master'''
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:44+00:00
+  collectedAt: 2026-09-07T19:21:50+00:00
   platform:
     darwin/arm64:
       name:  fselect-aarch64-mac.gz
