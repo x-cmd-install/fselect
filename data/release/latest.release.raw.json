@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3751324,
       "digest": "sha256:01e25f362c04e41e565216b70b4859e8bfe27038fa3a240810ca954247364864",
-      "download_count": 18,
+      "download_count": 26,
       "created_at": "2026-09-05T08:10:51Z",
       "updated_at": "2026-09-05T08:10:52Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-linux-musl.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3420751,
       "digest": "sha256:b96f46a8cde6c3671db71d4be3b82fe6b0c44cd25c4581f0fad3ec6f07ad9d8a",
-      "download_count": 129,
+      "download_count": 137,
       "created_at": "2026-09-05T08:11:27Z",
       "updated_at": "2026-09-05T08:11:28Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-win.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2669648,
       "digest": "sha256:26b645ff5109c3dce6cd46fd416ef87891c77a211af3608ecc5fa75a7f92a849",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-05T08:09:54Z",
       "updated_at": "2026-09-05T08:09:55Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect_0.10.3-1_amd64.deb"
