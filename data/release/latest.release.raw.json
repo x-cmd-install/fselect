@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2880845,
       "digest": "sha256:4241f5e9f9db001e07bbb5b7fc514b1ccdbb57a2fa144c55f375135a2d97772c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-05T08:11:30Z",
       "updated_at": "2026-09-05T08:11:31Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-0.10.3-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3456265,
       "digest": "sha256:38ca8f35883cac1746df127c8b3cafa9bf5b178d6bb5be64d88238eb691fb02c",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-05T08:10:14Z",
       "updated_at": "2026-09-05T08:10:15Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-aarch64-linux.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3751324,
       "digest": "sha256:01e25f362c04e41e565216b70b4859e8bfe27038fa3a240810ca954247364864",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-09-05T08:10:51Z",
       "updated_at": "2026-09-05T08:10:52Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-linux-musl.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3696581,
       "digest": "sha256:b474b1c5036d7de065a7b7ff32c4a1078a1c1a50eb397efd6eac1dc14f0e6314",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-05T08:10:05Z",
       "updated_at": "2026-09-05T08:10:05Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-linux.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3420751,
       "digest": "sha256:b96f46a8cde6c3671db71d4be3b82fe6b0c44cd25c4581f0fad3ec6f07ad9d8a",
-      "download_count": 150,
+      "download_count": 153,
       "created_at": "2026-09-05T08:11:27Z",
       "updated_at": "2026-09-05T08:11:28Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-win.zip"
