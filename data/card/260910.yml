@@ -7,7 +7,7 @@ about:
   latestVersion: "0.10.3"
   latestRelease: "0.10.3"
   latestPrerelease: "0.6.9"
-  collectedAt: 2026-09-10T17:10:33Z
+  collectedAt: 2026-09-10T21:41:50Z
 timeline:
   created: 2018-01-26
   lastCommit: 2026-09-05
@@ -85,7 +85,7 @@ total:
   commit: 1446
 ---
 path: /home/runner/.x-repo/github.com/jhspetersson/fselect
-collectedAt: 2026-09-10T17:10:38Z
+collectedAt: 2026-09-10T21:41:53Z
 loc:
   Rust:
     code: 25196
