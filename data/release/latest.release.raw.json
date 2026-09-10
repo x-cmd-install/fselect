@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3696581,
       "digest": "sha256:b474b1c5036d7de065a7b7ff32c4a1078a1c1a50eb397efd6eac1dc14f0e6314",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-09-05T08:10:05Z",
       "updated_at": "2026-09-05T08:10:05Z",
       "browser_download_url": "https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-linux.gz"
