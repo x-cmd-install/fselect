@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-15 | 1 | 0 | 0 | 0 | 0 | 9 |
-| 90d | 2026-06-15 | 2 | 0 | 0 | 0 | 1 | 45 |
-| last180d | 2026-03-17 | 4 | 1 | 0 | 2 | 1 | 178 |
-| 360d | 2025-09-18 | 7 | 1 | 0 | 4 | 1 | 475 |
-| last720d | 2024-09-23 | 13 | 2 | 0 | 18 | 1 | 586 |
+| 30d | 2026-08-15 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-16 | 1 | 0 | 0 | 0 | 0 | 9 |
+| 90d | 2026-06-16 | 2 | 0 | 0 | 0 | 1 | 45 |
+| last180d | 2026-03-18 | 4 | 1 | 0 | 2 | 1 | 178 |
+| 360d | 2025-09-19 | 7 | 1 | 0 | 4 | 1 | 475 |
+| last720d | 2024-09-24 | 13 | 2 | 0 | 18 | 1 | 586 |
 
 ## Release assets
 
@@ -78,16 +78,6 @@ Lowest-scoring checks:
 | [fselect-x86_64-win.zip](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-win.zip) | 3.3 MiB | `other` |
 | [fselect_0.10.3-1_amd64.deb](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect_0.10.3-1_amd64.deb) | 2.5 MiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **23** distros on [repology.org](https://repology.org/project/fselect). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.3` | ✅ latest |
-| Nix unstable | `0.10.3` | ✅ latest |
-| Void | `0.9.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fselect` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +87,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:18:39Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:27:04Z._
