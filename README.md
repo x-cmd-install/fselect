@@ -14,13 +14,13 @@ x install fselect
 
 ## Code insight
 
-Total: **26,757** lines of code across **67** files in the top 5 languages.
+Total: **28,584** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 26,544 | 685 | 3,422 | 60 |
+| Rust | 28,373 | 647 | 3,180 | 64 |
 | Svg | 102 | 22 | 27 | 4 |
-| Toml | 89 | 0 | 8 | 1 |
+| Toml | 87 | 0 | 8 | 1 |
 | Bash | 17 | 1 | 3 | 1 |
 | Dockerfile | 5 | 0 | 3 | 1 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.10.3` (2026-09-05)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 130 · **Open issues**: 6 · **Commits**: 1470
+- **Releases**: 46 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 130 · **Open issues**: 6 · **Commits**: 1486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 3 | 1 | 0 | 1 | 1 | 0 |
-| 360d | 2025-10-18 | 7 | 1 | 0 | 4 | 1 | 0 |
-| last720d | 2024-10-23 | 13 | 2 | 0 | 18 | 1 | 609 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 40 |
+| last60d | 2026-08-15 | 1 | 0 | 0 | 0 | 0 | 46 |
+| 90d | 2026-07-16 | 1 | 0 | 0 | 0 | 0 | 49 |
+| last180d | 2026-04-17 | 3 | 1 | 0 | 1 | 1 | 136 |
+| 360d | 2025-10-19 | 7 | 1 | 0 | 4 | 1 | 514 |
+| last720d | 2024-10-24 | 13 | 2 | 0 | 18 | 1 | 625 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:56Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:24:34Z._
