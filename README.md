@@ -14,11 +14,11 @@ x install fselect
 
 ## Code insight
 
-Total: **37,806** lines of code across **73** files in the top 5 languages.
+Total: **40,014** lines of code across **78** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 37,595 | 676 | 4,098 | 66 |
+| Rust | 39,803 | 676 | 4,378 | 71 |
 | Svg | 102 | 22 | 27 | 4 |
 | Toml | 87 | 0 | 8 | 1 |
 | Bash | 17 | 1 | 3 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.10.3` (2026-09-05)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 130 · **Open issues**: 7 · **Commits**: 1634
+- **Releases**: 46 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 130 · **Open issues**: 7 · **Commits**: 1660
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 1 | 188 |
-| last60d | 2026-08-23 | 1 | 0 | 0 | 0 | 1 | 194 |
-| 90d | 2026-07-24 | 1 | 0 | 0 | 0 | 1 | 197 |
-| last180d | 2026-04-25 | 3 | 1 | 0 | 1 | 2 | 283 |
-| 360d | 2025-10-27 | 7 | 1 | 0 | 4 | 2 | 661 |
-| last720d | 2024-11-01 | 13 | 2 | 0 | 18 | 2 | 772 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 214 |
+| last60d | 2026-08-24 | 1 | 0 | 0 | 0 | 1 | 220 |
+| 90d | 2026-07-25 | 1 | 0 | 0 | 0 | 1 | 223 |
+| last180d | 2026-04-26 | 3 | 1 | 0 | 1 | 2 | 309 |
+| 360d | 2025-10-28 | 7 | 1 | 0 | 4 | 2 | 687 |
+| last720d | 2024-11-02 | 13 | 2 | 0 | 18 | 2 | 798 |
 
 ## Release assets
 
@@ -78,6 +78,16 @@ Lowest-scoring checks:
 | [fselect-x86_64-win.zip](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-win.zip) | 3.3 MiB | `other` |
 | [fselect_0.10.3-1_amd64.deb](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect_0.10.3-1_amd64.deb) | 2.5 MiB | `runtime/deb/amd64` |
 
+## Distribution status
+
+Reported by **23** distros on [repology.org](https://repology.org/project/fselect). **11** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.3` | ✅ latest |
+| Nix unstable | `0.10.3` | ✅ latest |
+| Void | `0.10.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fselect` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +97,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:08:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:10:01Z._
