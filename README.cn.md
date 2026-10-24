@@ -14,13 +14,13 @@ x install fselect
 
 ## 代码洞察
 
-合计: **40,014** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
+合计: **39,503** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 39,803 | 676 | 4,378 | 71 |
+| Rust | 39,291 | 665 | 4,350 | 71 |
 | Svg | 102 | 22 | 27 | 4 |
-| Toml | 87 | 0 | 8 | 1 |
+| Toml | 88 | 0 | 8 | 1 |
 | Bash | 17 | 1 | 3 | 1 |
 | Dockerfile | 5 | 0 | 3 | 1 |
 
@@ -42,51 +42,51 @@ x install fselect
 
 ## 发布
 
-- **最新版本**: `0.10.3` (2026-09-05)
-- **最近提交**: 2026-10-22
+- **最新版本**: `0.10.4` (2026-10-23)
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 4,473 · **Fork**: 87 · **开放 issue**: 137 · **贡献者**: 23
+- **Star**: 4,474 · **Fork**: 87 · **开放 issue**: 137 · **贡献者**: 23
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 35 · **开放 PR**: 0 · **已关闭 issue**: 130 · **开放 issue**: 7 · **提交数**: 1660
+- **发布数**: 47 · **已合并 PR**: 35 · **开放 PR**: 0 · **已关闭 issue**: 130 · **开放 issue**: 7 · **提交数**: 1677
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 214 |
-| last60d | 2026-08-24 | 1 | 0 | 0 | 0 | 1 | 220 |
-| 90d | 2026-07-25 | 1 | 0 | 0 | 0 | 1 | 223 |
-| last180d | 2026-04-26 | 3 | 1 | 0 | 1 | 2 | 309 |
-| 360d | 2025-10-28 | 7 | 1 | 0 | 4 | 2 | 687 |
-| last720d | 2024-11-02 | 13 | 2 | 0 | 18 | 2 | 798 |
+| 30d | 2026-09-24 | 1 | 0 | 0 | 0 | 1 | 231 |
+| last60d | 2026-08-25 | 2 | 0 | 0 | 0 | 1 | 237 |
+| 90d | 2026-07-26 | 2 | 0 | 0 | 0 | 1 | 240 |
+| last180d | 2026-04-27 | 4 | 1 | 0 | 1 | 2 | 326 |
+| 360d | 2025-10-29 | 8 | 1 | 0 | 4 | 2 | 704 |
+| last720d | 2024-11-03 | 14 | 2 | 0 | 18 | 2 | 815 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [fselect-0.10.3-1.x86_64.rpm](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-0.10.3-1.x86_64.rpm) | 2.7 MiB | `runtime/rpm/x86_64` |
-| [fselect-aarch64-linux-musl.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-aarch64-linux-musl.gz) | 3.4 MiB | `native/linux/arm64/musl` |
-| [fselect-aarch64-linux.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-aarch64-linux.gz) | 3.3 MiB | `native/linux/arm64` |
-| [fselect-aarch64-mac.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-aarch64-mac.gz) | 3.0 MiB | `other` |
-| [fselect-x86_64-linux-musl.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-linux-musl.gz) | 3.6 MiB | `native/linux/x64/musl` |
-| [fselect-x86_64-linux.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-linux.gz) | 3.5 MiB | `native/linux/x64` |
-| [fselect-x86_64-win.zip](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect-x86_64-win.zip) | 3.3 MiB | `other` |
-| [fselect_0.10.3-1_amd64.deb](https://github.com/jhspetersson/fselect/releases/download/0.10.3/fselect_0.10.3-1_amd64.deb) | 2.5 MiB | `runtime/deb/amd64` |
+| [fselect-0.10.4-1.x86_64.rpm](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-0.10.4-1.x86_64.rpm) | 3.0 MiB | `runtime/rpm/x86_64` |
+| [fselect-aarch64-linux-musl.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-aarch64-linux-musl.gz) | 3.7 MiB | `native/linux/arm64/musl` |
+| [fselect-aarch64-linux.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-aarch64-linux.gz) | 3.6 MiB | `native/linux/arm64` |
+| [fselect-aarch64-mac.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-aarch64-mac.gz) | 3.3 MiB | `other` |
+| [fselect-x86_64-linux-musl.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-x86_64-linux-musl.gz) | 3.9 MiB | `native/linux/x64/musl` |
+| [fselect-x86_64-linux.gz](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-x86_64-linux.gz) | 3.9 MiB | `native/linux/x64` |
+| [fselect-x86_64-win.zip](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-x86_64-win.zip) | 3.6 MiB | `other` |
+| [fselect_0.10.4-1_amd64.deb](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect_0.10.4-1_amd64.deb) | 2.8 MiB | `runtime/deb/amd64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/fselect) 上共有 **23** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/fselect) 上共有 **23** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.10.3` | ✅ latest |
-| Nix unstable | `0.10.3` | ✅ latest |
-| Void | `0.10.3` | ✅ latest |
+| Homebrew | `0.10.4` | ✅ latest |
+| Nix unstable | `0.10.3` | ⚠️ outdated |
+| Void | `0.10.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -97,4 +97,4 @@ fselect 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:10:01Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:08:51Z._
