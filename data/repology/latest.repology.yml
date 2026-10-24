@@ -1,19 +1,3 @@
-- repo: crates_io
-  srcname: fselect
-  visiblename: fselect
-  version: 0.10.3
-  origversion: null
-  status: newest
-  summary: Find files with SQL-like queries
-- repo: scoop
-  subrepo: main
-  binname: fselect
-  visiblename: fselect
-  version: 0.10.3
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0|MIT
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -22,7 +6,7 @@
   visiblename: fselect
   version: 0.10.3
   origversion: 0.10.3-alt1
-  status: newest
+  status: outdated
   summary: Find files with SQL-like queries
   maintainers:
     - serjigva@altlinux.org
@@ -36,7 +20,7 @@
   visiblename: fselect
   version: 0.10.3
   origversion: 0.10.3-2
-  status: newest
+  status: outdated
   summary: Find files with SQL-like queries
   maintainers:
     - asm0dey@aur
@@ -48,7 +32,7 @@
   visiblename: fselect-bin
   version: 0.10.3
   origversion: 0.10.3-3
-  status: newest
+  status: outdated
   summary: Find files with SQL-like queries
   maintainers:
     - 4censord@aur
@@ -70,6 +54,13 @@
   binname: fselect
   visiblename: fselect
   version: 0.10.3
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+- repo: crates_io
+  srcname: fselect
+  visiblename: fselect
+  version: 0.10.4
   origversion: null
   status: newest
   summary: Find files with SQL-like queries
@@ -113,7 +104,7 @@
 - repo: homebrew
   srcname: fselect
   visiblename: fselect
-  version: 0.10.3
+  version: 0.10.4
   origversion: null
   status: newest
   summary: Find files with SQL-like queries
@@ -171,7 +162,7 @@
   srcname: sysutils/fselect
   binname: fselect
   visiblename: fselect
-  version: 0.10.3
+  version: 0.10.4
   origversion: null
   status: newest
   summary: Find files with SQL-like queries
@@ -247,7 +238,7 @@
   visiblename: fselect
   version: 0.10.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Find files with SQL-like queries
   maintainers:
     - mail@beyermatthias.de
@@ -258,8 +249,8 @@
   srcname: fselect-git
   binname: fselect-git
   visiblename: fselect-git
-  version: fe0635fd
-  origversion: fe0635fd-1
+  version: 4cc5c89a
+  origversion: 4cc5c89a-1
   status: rolling
   summary: Find files with SQL-like queries
   maintainers:
@@ -279,11 +270,20 @@
     - MIT
   categories:
     - Development/Languages/Other
+- repo: scoop
+  subrepo: main
+  binname: fselect
+  visiblename: fselect
+  version: 0.10.4
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0|MIT
 - repo: termux
   srcname: fselect
   binname: fselect
   visiblename: fselect
-  version: 0.10.3
+  version: 0.10.4
   origversion: null
   status: newest
   summary: Find files with SQL-like queries
@@ -296,7 +296,7 @@
   visiblename: fselect
   version: 0.10.3
   origversion: 0.10.3_1
-  status: newest
+  status: outdated
   summary: Find files with SQL-like queries
   maintainers:
     - orphan@voidlinux.org
