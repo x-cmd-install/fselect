@@ -1,3 +1,16 @@
+- repo: nix_stable_25_11
+  srcname: fselect
+  visiblename: fselect
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+    - mail@beyermatthias.de
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -18,9 +31,9 @@
   srcname: fselect
   binname: fselect
   visiblename: fselect
-  version: 0.10.3
-  origversion: 0.10.3-2
-  status: outdated
+  version: 0.10.4
+  origversion: 0.10.4-2
+  status: newest
   summary: Find files with SQL-like queries
   maintainers:
     - asm0dey@aur
@@ -205,19 +218,6 @@
   summary: Find files with SQL-like queries
   maintainers:
     - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_11
-  srcname: fselect
-  visiblename: fselect
-  version: 0.9.1
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-    - mail@beyermatthias.de
   licenses:
     - Apache-2.0
     - MIT
