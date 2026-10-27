@@ -30,9 +30,9 @@
   srcname: fselect-bin
   binname: fselect-bin
   visiblename: fselect-bin
-  version: 0.10.3
-  origversion: 0.10.3-3
-  status: outdated
+  version: 0.10.4
+  origversion: 0.10.4-3
+  status: newest
   summary: Find files with SQL-like queries
   maintainers:
     - 4censord@aur
