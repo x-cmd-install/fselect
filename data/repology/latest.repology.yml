@@ -1,3 +1,39 @@
+- repo: nix_stable_24_05
+  srcname: fselect
+  visiblename: fselect
+  version: 0.8.5
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_24_11
+  srcname: fselect
+  visiblename: fselect
+  version: 0.8.5
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: fselect
+  visiblename: fselect
+  version: 0.8.11
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -172,42 +208,6 @@
     - Apache-2
   categories:
     - sysutils
-- repo: nix_stable_24_05
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.5
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_24_11
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.5
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_05
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.11
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_25_11
   srcname: fselect
   visiblename: fselect
@@ -249,8 +249,8 @@
   srcname: fselect-git
   binname: fselect-git
   visiblename: fselect-git
-  version: 4cc5c89a
-  origversion: 4cc5c89a-1
+  version: 277c4890
+  origversion: 277c4890-1
   status: rolling
   summary: Find files with SQL-like queries
   maintainers:
