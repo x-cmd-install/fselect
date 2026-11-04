@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **SAST** (0/10) — no SAST tool detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 0 | 0 | 1 | 0 | 243 |
-| last60d | 2026-09-04 | 2 | 0 | 0 | 1 | 0 | 243 |
-| 90d | 2026-08-05 | 2 | 0 | 0 | 1 | 0 | 250 |
-| last180d | 2026-05-07 | 4 | 1 | 0 | 1 | 1 | 322 |
-| 360d | 2025-11-08 | 8 | 1 | 0 | 5 | 1 | 703 |
-| last720d | 2024-11-13 | 14 | 2 | 0 | 19 | 1 | 826 |
+| 30d | 2026-10-05 | 1 | 0 | 0 | 1 | 0 | 243 |
+| last60d | 2026-09-05 | 2 | 0 | 0 | 1 | 0 | 243 |
+| 90d | 2026-08-06 | 2 | 0 | 0 | 1 | 0 | 250 |
+| last180d | 2026-05-08 | 4 | 1 | 0 | 1 | 1 | 322 |
+| 360d | 2025-11-09 | 8 | 1 | 0 | 5 | 1 | 703 |
+| last720d | 2024-11-14 | 14 | 2 | 0 | 19 | 1 | 826 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:12:23Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:51:34Z._
