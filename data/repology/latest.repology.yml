@@ -1,28 +1,18 @@
-- repo: liguros_stable
-  srcname: sys-apps/fselect
-  visiblename: sys-apps/fselect
-  version: 0.8.6
-  origversion: null
+- repo: rpmsphere
+  srcname: fselect
+  binnames:
+    - fselect
+    - fselect-debuginfo
+    - fselect-debugsource
+  visiblename: fselect
+  version: 0.8.1
+  origversion: 0.8.1-1
   status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - contact@qaidvoid.dev
+  summary: fselect - Find files with SQL-like queries
   licenses:
-    - 0BSD
-    - Apache-2.0
-    - Apache-2.0-with-LLVM-exceptions
-    - BSD-2
-    - Boost-1.0
-    - CC0-1.0
-    - GPL-2+
-    - ISC
     - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - Unlicense
-    - ZLIB
   categories:
-    - sys-apps
+    - Development/Languages/Other
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -63,6 +53,16 @@
     - 4censord@aur
   licenses:
     - MIT OR Apache-2.0
+- repo: pacstall
+  srcname: fselect-git
+  binname: fselect-git
+  visiblename: fselect-git
+  version: 2b101ea5
+  origversion: 2b101ea5-1
+  status: rolling
+  summary: Find files with SQL-like queries
+  maintainers:
+    - diegomagdaleno@pm.me
 - repo: aur
   srcname: fselect-git
   binname: fselect-git
@@ -133,6 +133,31 @@
   origversion: null
   status: newest
   summary: Find files with SQL-like queries
+- repo: liguros_stable
+  srcname: sys-apps/fselect
+  visiblename: sys-apps/fselect
+  version: 0.8.6
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - contact@qaidvoid.dev
+  licenses:
+    - 0BSD
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - Boost-1.0
+    - CC0-1.0
+    - GPL-2+
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - Unlicense
+    - ZLIB
+  categories:
+    - sys-apps
 - repo: liguros_develop
   srcname: sys-apps/fselect
   visiblename: sys-apps/fselect
@@ -245,31 +270,6 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: pacstall
-  srcname: fselect-git
-  binname: fselect-git
-  visiblename: fselect-git
-  version: 2b101ea5
-  origversion: 2b101ea5-1
-  status: rolling
-  summary: Find files with SQL-like queries
-  maintainers:
-    - diegomagdaleno@pm.me
-- repo: rpmsphere
-  srcname: fselect
-  binnames:
-    - fselect
-    - fselect-debuginfo
-    - fselect-debugsource
-  visiblename: fselect
-  version: 0.8.1
-  origversion: 0.8.1-1
-  status: outdated
-  summary: fselect - Find files with SQL-like queries
-  licenses:
-    - MIT
-  categories:
-    - Development/Languages/Other
 - repo: scoop
   subrepo: main
   binname: fselect
