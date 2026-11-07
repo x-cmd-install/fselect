@@ -14,11 +14,11 @@ x install fselect
 
 ## Code insight
 
-Total: **39,901** lines of code across **78** files in the top 5 languages.
+Total: **40,007** lines of code across **78** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 39,689 | 665 | 4,394 | 71 |
+| Rust | 39,795 | 661 | 4,402 | 71 |
 | Svg | 102 | 22 | 27 | 4 |
 | Toml | 88 | 0 | 8 | 1 |
 | Bash | 17 | 1 | 3 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.10.4` (2026-10-23)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-06
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 4,476 · **Forks**: 87 · **Open issues**: 137 · **Contributors**: 23
+- **Stars**: 4,475 · **Forks**: 87 · **Open issues**: 137 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 6 · **Commits**: 1689
+- **Releases**: 47 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 6 · **Commits**: 1690
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 0 | 0 | 1 | 0 | 243 |
-| last60d | 2026-09-07 | 1 | 0 | 0 | 1 | 0 | 243 |
-| 90d | 2026-08-08 | 2 | 0 | 0 | 1 | 0 | 250 |
-| last180d | 2026-05-10 | 4 | 1 | 0 | 1 | 1 | 322 |
-| 360d | 2025-11-11 | 8 | 1 | 0 | 5 | 1 | 703 |
-| last720d | 2024-11-16 | 14 | 2 | 0 | 19 | 1 | 826 |
+| 30d | 2026-10-08 | 1 | 0 | 0 | 1 | 0 | 244 |
+| last60d | 2026-09-08 | 1 | 0 | 0 | 1 | 0 | 244 |
+| 90d | 2026-08-09 | 2 | 0 | 0 | 1 | 0 | 251 |
+| last180d | 2026-05-11 | 4 | 1 | 0 | 1 | 1 | 323 |
+| 360d | 2025-11-12 | 8 | 1 | 0 | 5 | 1 | 704 |
+| last720d | 2024-11-17 | 14 | 2 | 0 | 19 | 1 | 826 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:05:01Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:31:32Z._
