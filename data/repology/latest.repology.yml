@@ -1,18 +1,3 @@
-- repo: rpmsphere
-  srcname: fselect
-  binnames:
-    - fselect
-    - fselect-debuginfo
-    - fselect-debugsource
-  visiblename: fselect
-  version: 0.8.1
-  origversion: 0.8.1-1
-  status: outdated
-  summary: fselect - Find files with SQL-like queries
-  licenses:
-    - MIT
-  categories:
-    - Development/Languages/Other
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -53,16 +38,6 @@
     - 4censord@aur
   licenses:
     - MIT OR Apache-2.0
-- repo: pacstall
-  srcname: fselect-git
-  binname: fselect-git
-  visiblename: fselect-git
-  version: 2b101ea5
-  origversion: 2b101ea5-1
-  status: rolling
-  summary: Find files with SQL-like queries
-  maintainers:
-    - diegomagdaleno@pm.me
 - repo: aur
   srcname: fselect-git
   binname: fselect-git
@@ -101,6 +76,19 @@
     - lcook@freebsd.org
   categories:
     - sysutils
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: fselect
+  binname: fselect
+  visiblename: fselect
+  version: 0.10.3
+  origversion: 0.10.3_1
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - Apache-2.0 OR MIT
 - repo: gentoo_ovl_guru
   srcname: sys-apps/fselect
   visiblename: sys-apps/fselect
@@ -270,6 +258,31 @@
   licenses:
     - Apache-2.0
     - MIT
+- repo: pacstall
+  srcname: fselect-git
+  binname: fselect-git
+  visiblename: fselect-git
+  version: 9bba3273
+  origversion: 9bba3273-1
+  status: rolling
+  summary: Find files with SQL-like queries
+  maintainers:
+    - diegomagdaleno@pm.me
+- repo: rpmsphere
+  srcname: fselect
+  binnames:
+    - fselect
+    - fselect-debuginfo
+    - fselect-debugsource
+  visiblename: fselect
+  version: 0.8.1
+  origversion: 0.8.1-1
+  status: outdated
+  summary: fselect - Find files with SQL-like queries
+  licenses:
+    - MIT
+  categories:
+    - Development/Languages/Other
 - repo: scoop
   subrepo: main
   binname: fselect
@@ -289,16 +302,3 @@
   summary: Find files with SQL-like queries
   maintainers:
     - termux@github
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: fselect
-  binname: fselect
-  visiblename: fselect
-  version: 0.10.3
-  origversion: 0.10.3_1
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - orphan@voidlinux.org
-  licenses:
-    - Apache-2.0 OR MIT
