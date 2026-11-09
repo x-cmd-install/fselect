@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 0 | 0 | 1 | 0 | 148 |
-| last60d | 2026-09-09 | 1 | 0 | 0 | 1 | 0 | 244 |
-| 90d | 2026-08-10 | 2 | 0 | 0 | 1 | 0 | 250 |
-| last180d | 2026-05-12 | 4 | 1 | 0 | 1 | 1 | 320 |
-| 360d | 2025-11-13 | 8 | 1 | 0 | 3 | 1 | 688 |
-| last720d | 2024-11-18 | 14 | 2 | 0 | 19 | 1 | 826 |
+| 30d | 2026-10-10 | 1 | 0 | 0 | 1 | 0 | 148 |
+| last60d | 2026-09-10 | 1 | 0 | 0 | 1 | 0 | 244 |
+| 90d | 2026-08-11 | 2 | 0 | 0 | 1 | 0 | 250 |
+| last180d | 2026-05-13 | 4 | 1 | 0 | 1 | 1 | 320 |
+| 360d | 2025-11-14 | 8 | 1 | 0 | 3 | 1 | 688 |
+| last720d | 2024-11-19 | 14 | 2 | 0 | 19 | 1 | 826 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:32:47Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:56:01Z._
