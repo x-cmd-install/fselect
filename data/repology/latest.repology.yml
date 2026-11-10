@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: fselect
+  visiblename: fselect
+  version: 0.8.11
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -76,19 +88,6 @@
     - lcook@freebsd.org
   categories:
     - sysutils
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: fselect
-  binname: fselect
-  visiblename: fselect
-  version: 0.10.3
-  origversion: 0.10.3_1
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - orphan@voidlinux.org
-  licenses:
-    - Apache-2.0 OR MIT
 - repo: gentoo_ovl_guru
   srcname: sys-apps/fselect
   visiblename: sys-apps/fselect
@@ -209,18 +208,6 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_05
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.11
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_25_11
   srcname: fselect
   visiblename: fselect
@@ -262,8 +249,8 @@
   srcname: fselect-git
   binname: fselect-git
   visiblename: fselect-git
-  version: 9bba3273
-  origversion: 9bba3273-1
+  version: fea3c1b1
+  origversion: fea3c1b1-1
   status: rolling
   summary: Find files with SQL-like queries
   maintainers:
@@ -302,3 +289,16 @@
   summary: Find files with SQL-like queries
   maintainers:
     - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: fselect
+  binname: fselect
+  visiblename: fselect
+  version: 0.10.3
+  origversion: 0.10.3_1
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - Apache-2.0 OR MIT
