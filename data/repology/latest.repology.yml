@@ -1,10 +1,51 @@
-- repo: crates_io
+- repo: nix_stable_24_05
   srcname: fselect
   visiblename: fselect
-  version: 0.10.4
+  version: 0.8.5
   origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_24_11
+  srcname: fselect
+  visiblename: fselect
+  version: 0.8.5
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: fselect
+  visiblename: fselect
+  version: 0.8.11
+  origversion: null
+  status: outdated
+  summary: Find files with SQL-like queries
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: aur
+  srcname: fselect
+  binname: fselect
+  visiblename: fselect
+  version: 0.10.4
+  origversion: 0.10.4-2
   status: newest
   summary: Find files with SQL-like queries
+  maintainers:
+    - asm0dey@aur
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: fselect
   binnames:
@@ -21,18 +62,6 @@
     - Apache-2.0 and MIT
   categories:
     - File tools
-- repo: aur
-  srcname: fselect
-  binname: fselect
-  visiblename: fselect
-  version: 0.10.4
-  origversion: 0.10.4-2
-  status: newest
-  summary: Find files with SQL-like queries
-  maintainers:
-    - asm0dey@aur
-  licenses:
-    - MIT
 - repo: aur
   srcname: fselect-bin
   binname: fselect-bin
@@ -59,6 +88,13 @@
     - MIT
 - repo: chocolatey
   binname: fselect
+  visiblename: fselect
+  version: 0.10.4
+  origversion: null
+  status: newest
+  summary: Find files with SQL-like queries
+- repo: crates_io
+  srcname: fselect
   visiblename: fselect
   version: 0.10.4
   origversion: null
@@ -172,42 +208,6 @@
     - Apache-2
   categories:
     - sysutils
-- repo: nix_stable_24_05
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.5
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_24_11
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.5
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_05
-  srcname: fselect
-  visiblename: fselect
-  version: 0.8.11
-  origversion: null
-  status: outdated
-  summary: Find files with SQL-like queries
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_25_11
   srcname: fselect
   visiblename: fselect
@@ -249,8 +249,8 @@
   srcname: fselect-git
   binname: fselect-git
   visiblename: fselect-git
-  version: 804adefa
-  origversion: 804adefa-1
+  version: 234f8b7b
+  origversion: 234f8b7b-1
   status: rolling
   summary: Find files with SQL-like queries
   maintainers:
