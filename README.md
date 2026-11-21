@@ -14,11 +14,11 @@ x install fselect
 
 ## Code insight
 
-Total: **41,067** lines of code across **79** files in the top 5 languages.
+Total: **41,140** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 40,853 | 662 | 4,489 | 72 |
+| Rust | 40,926 | 662 | 4,494 | 72 |
 | Svg | 102 | 22 | 27 | 4 |
 | Toml | 90 | 0 | 9 | 1 |
 | Bash | 17 | 1 | 3 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.10.4` (2026-10-23)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 6 · **Commits**: 1713
+- **Releases**: 47 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 6 · **Commits**: 1715
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 0 | 0 | 0 | 0 | 53 |
-| last60d | 2026-09-21 | 1 | 0 | 0 | 1 | 0 | 267 |
-| 90d | 2026-08-22 | 2 | 0 | 0 | 1 | 0 | 273 |
-| last180d | 2026-05-24 | 4 | 1 | 0 | 1 | 1 | 343 |
-| 360d | 2025-11-25 | 7 | 1 | 0 | 3 | 1 | 711 |
-| last720d | 2024-11-30 | 14 | 2 | 0 | 19 | 1 | 849 |
+| 30d | 2026-10-22 | 1 | 0 | 0 | 0 | 0 | 55 |
+| last60d | 2026-09-22 | 1 | 0 | 0 | 1 | 0 | 269 |
+| 90d | 2026-08-23 | 2 | 0 | 0 | 1 | 0 | 275 |
+| last180d | 2026-05-25 | 4 | 1 | 0 | 1 | 1 | 345 |
+| 360d | 2025-11-26 | 7 | 1 | 0 | 3 | 1 | 713 |
+| last720d | 2024-12-01 | 14 | 2 | 0 | 19 | 1 | 851 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:42:47Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:38:20Z._
