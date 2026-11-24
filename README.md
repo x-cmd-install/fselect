@@ -14,11 +14,11 @@ x install fselect
 
 ## Code insight
 
-Total: **41,340** lines of code across **80** files in the top 5 languages.
+Total: **41,428** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 41,126 | 659 | 4,519 | 73 |
+| Rust | 41,214 | 659 | 4,528 | 73 |
 | Svg | 102 | 22 | 27 | 4 |
 | Toml | 90 | 0 | 9 | 1 |
 | Bash | 17 | 1 | 3 | 1 |
@@ -30,9 +30,9 @@ Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **SAST** (0/10) — no SAST tool detected
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.10.4` (2026-10-23)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 6 · **Commits**: 1718
+- **Releases**: 47 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 132 · **Open issues**: 5 · **Commits**: 1719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 29 |
-| last60d | 2026-09-24 | 1 | 0 | 0 | 1 | 0 | 272 |
-| 90d | 2026-08-25 | 2 | 0 | 0 | 1 | 0 | 277 |
-| last180d | 2026-05-27 | 4 | 1 | 0 | 1 | 1 | 345 |
-| 360d | 2025-11-28 | 7 | 1 | 0 | 3 | 1 | 712 |
-| last720d | 2024-12-03 | 14 | 2 | 0 | 19 | 1 | 854 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 30 |
+| last60d | 2026-09-25 | 1 | 0 | 0 | 1 | 0 | 273 |
+| 90d | 2026-08-26 | 2 | 0 | 0 | 1 | 0 | 278 |
+| last180d | 2026-05-28 | 4 | 1 | 0 | 2 | 0 | 346 |
+| 360d | 2025-11-29 | 7 | 1 | 0 | 4 | 0 | 713 |
+| last720d | 2024-12-04 | 14 | 2 | 0 | 20 | 0 | 855 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:03:22Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:18:29Z._
