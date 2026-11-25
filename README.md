@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,478 · **Forks**: 87 · **Open issues**: 137 · **Contributors**: 23
+- **Stars**: 4,479 · **Forks**: 88 · **Open issues**: 137 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 30 |
-| last60d | 2026-09-25 | 1 | 0 | 0 | 1 | 0 | 273 |
-| 90d | 2026-08-26 | 2 | 0 | 0 | 1 | 0 | 278 |
-| last180d | 2026-05-28 | 4 | 1 | 0 | 2 | 0 | 346 |
-| 360d | 2025-11-29 | 7 | 1 | 0 | 4 | 0 | 713 |
-| last720d | 2024-12-04 | 14 | 2 | 0 | 20 | 0 | 855 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 30 |
+| last60d | 2026-09-26 | 1 | 0 | 0 | 1 | 0 | 273 |
+| 90d | 2026-08-27 | 2 | 0 | 0 | 1 | 0 | 278 |
+| last180d | 2026-05-29 | 4 | 1 | 0 | 2 | 0 | 346 |
+| 360d | 2025-11-30 | 7 | 1 | 0 | 4 | 0 | 713 |
+| last720d | 2024-12-05 | 14 | 2 | 0 | 20 | 0 | 855 |
 
 ## Release assets
 
@@ -78,16 +78,6 @@ Lowest-scoring checks:
 | [fselect-x86_64-win.zip](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-x86_64-win.zip) | 3.6 MiB | `other` |
 | [fselect_0.10.4-1_amd64.deb](https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect_0.10.4-1_amd64.deb) | 2.8 MiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **23** distros on [repology.org](https://repology.org/project/fselect). **9** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.4` | ✅ latest |
-| Nix unstable | `0.10.3` | ⚠️ outdated |
-| Void | `0.10.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fselect` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +87,4 @@ Install metadata for fselect lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:18:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:30:25Z._
